@@ -143,6 +143,7 @@
     <configuration name="Scenario: Validate Custom View" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Appium.feature" />
+      <option name="GLUE" value="utility stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="cucumbe-and-appium-practice" />
       <option name="NAME_FILTER" value="^Validate Custom View$" />
